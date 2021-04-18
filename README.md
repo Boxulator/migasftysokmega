@@ -5,7 +5,7 @@
 INFO:
 
 -Try not to use infinite yield for flying, only antiafk/chatlogs/esp/non character manipulation related commands/etc.
--More updates will come later
+-More updates will come later.
 
 NOTES: 
 
